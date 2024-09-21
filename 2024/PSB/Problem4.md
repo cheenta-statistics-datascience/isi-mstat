@@ -28,7 +28,8 @@ R = \left\{(x, y) \in \mathbb{R}^2 : 0 < y < 1, |x| < 1 - y \right\} = \left\{(x
   <img src="figures/img1.png" alt="Alt text" width="600"/>
 </div>
 
-* Image A, and B shows the equations and region $R$ (red), where $(X,Y)$ is restricted to. The blue region in the image corresponds to $P(Z ]leq z)$ for $0 < z < 1$. This is because both the linear regions accordingly get scaled.
+* Image A, and B shows the equations and region $R$ (red), where $(X,Y)$ is restricted to. The blue region in the image corresponds to $P(Z 
+\leq z)$ for $0 < z < 1$. This is because both the linear regions accordingly get scaled.
 
 * The image C proves that by similarity of triangles for both the negative and non-negative x, that $P(Z \leq z) = \frac{P((X,Y) \in \text{Blue})}{P((X,Y) \in \text{Red})} = \frac{\text{Area}(\text{Blue})}{\text{Area}(\text{Red})} = \frac{z^2}{1}$. Hence $F_Z(z) = z^2 \implies f_Z(z) = 2z; 0 < z < 1$.  
 
